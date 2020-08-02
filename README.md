@@ -1,10 +1,10 @@
-### Hi there 👋
+### Bonjour there 👋
 
 - 🔭 I’m currently working on LumiaWOA, improving the driver experience of running Windows 10 on Lumia 950 and 950 XLs, as well as two top secrets project hoping to see the light of the day this year (they are both UWP related and one is taking a lot of time to make).
 - 🌱 I’m currently learning telecommunication engineering.
 - 📫 How to reach me: mailto:gustave.monce@outlook.fr or mailto:gustave.monce@bordeaux-inp.fr (pro) or @gus33000 on both Twitter or Telegram or gus33000#2883 on discord.
 - ⚡ I've worked on several projects over the years, notably https://github.com/gus33000/InteropTools and https://github.com/WOA-Project and the RT4Lumia project. I like writing apps for the UWP platform, C#, C++/C. I like collecting old hardware, and prototype hardware, as well as old software and old prototype software.
-- 😄 I own a Dog, named Frei because I was going to get it on a Friday, (but didn't in the end, got it monday instead). This dog was abandonned by the previous owner and now owns 99% of my entire house supply of cushions and sofas. I used to own 2 cats as well, both sadly passed away in 2018.
+- 😄 I own a Dog, named Frei because I was going to get it on a Friday, (but didn't in the end, got it monday instead). This dog was abandonned by the previous owner and now owns 99% of my entire house supply of cushions and sofas. I used to own 2 cats as well, both sadly passed away in 2018. I speak both English and French, and German a little.
 
 <!--
 **gus33000/gus33000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
