@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on:
   - [LumiaWOA](https://github.com/WOA-Project), improving the driver experience of running Windows 10 on Lumia 950 and 950 XLs
   - [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - a tool to create media from Microsoft Unified Update Platform
-  - [Fenice for Twitter](https://twitter.com/FeniceWindows) - an amazing Twitter Client for Windows 10 with [@ilGianfri](https://github.com/gus33000)
+  - [Fenice for Twitter](https://twitter.com/FeniceWindows) - an amazing Twitter Client for Windows 10 with [@ilGianfri](https://github.com/ilGianfri)
   
 - 🌱 I’m currently learning telecommunication engineering.
 
